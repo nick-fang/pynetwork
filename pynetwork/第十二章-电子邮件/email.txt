@@ -1,0 +1,12 @@
+To: test recipient <recipient@example.com>
+From: test sender <sender@example.com>
+Subject: test message, chapter 12
+Date: Tue, 15 Jan 2019 15:06:25 +0800
+Message-ID: <154753598515.2416.5848025806724688247@DESKTOP-C65SJEF>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+hello, 
+this is a basic message from chapter 12. 
+- anonymous

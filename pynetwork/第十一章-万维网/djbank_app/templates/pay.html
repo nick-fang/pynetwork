@@ -1,0 +1,12 @@
+﻿<!DOCTYPE html>
+
+{% extends "base.html" %}
+{% block title %}{% block title2 %}make a payment{% endblock %}{% endblock %}
+
+{% block content %}
+<form method="post" action="/pay/">
+  {{ form.as_p }}
+  {% csrf_token %}
+  <button type="submit">send money</button> | <a href="/">cancel</a>
+</form>
+{% endblock %}

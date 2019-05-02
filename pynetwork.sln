@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pynetwork", "pynetwork\pynetwork.pyproj", "{BE94ACC0-791A-4750-8C5A-AE4A20E07536}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{C246A77F-F776-4F40-8868-93F36098121F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "concurrent", "concurrent\concurrent.pyproj", "{2A6C212A-F6C3-4C8B-90D4-E90F93759518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE94ACC0-791A-4750-8C5A-AE4A20E07536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE94ACC0-791A-4750-8C5A-AE4A20E07536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C246A77F-F776-4F40-8868-93F36098121F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C246A77F-F776-4F40-8868-93F36098121F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6C212A-F6C3-4C8B-90D4-E90F93759518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6C212A-F6C3-4C8B-90D4-E90F93759518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A50C38EF-C964-431F-8A10-4B398EA2B41C}
+	EndGlobalSection
+EndGlobal
